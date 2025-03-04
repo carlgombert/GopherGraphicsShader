@@ -7,6 +7,8 @@ find_package(OpenGL REQUIRED)
 include_directories(/opt/homebrew/include)  # Path to Homebrew headers
 link_directories(/opt/homebrew/lib)         # Path to Homebrew libraries
 
-add_executable(GopherGraphicsShader main.cpp)
+add_executable(GopherGraphicsShader main.cpp
+        Reaction.cpp
+        Reaction.h)
 target_link_libraries(GopherGraphicsShader glfw GLEW)
 target_link_libraries(GopherGraphicsShader "-framework OpenGL")

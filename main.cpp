@@ -1,7 +1,7 @@
 #include <iostream>
 #include <GLFW/glfw3.h>
 
-int WIDTH = 800, HEIGHT = 600;
+const int WIDTH = 800, HEIGHT = 600;
 
 int main()
 {
