@@ -5,10 +5,10 @@ hosted by Gopher Graphics Club.
 
 α = 1.0, β = 1.0, γ = 1.0
 <p align="center">
-<img src="https://github.com/carlgombert/GopherGraphicsShader/blob/main/output/react_perfect.gif"/>
+<img src="https://github.com/carlgombert/GopherGraphicsShader/blob/main/output/react_perfect.gif" width="400" height="400"/>
 </p>
 
 α = 1.2, β = 1.0, γ = 1.0
 <p align="center">
-<img src="https://github.com/carlgombert/GopherGraphicsShader/blob/main/output/react_alpha.gif"/>
+<img src="https://github.com/carlgombert/GopherGraphicsShader/blob/main/output/react_alpha.gif" width="400" height="400"/>
 </p>
