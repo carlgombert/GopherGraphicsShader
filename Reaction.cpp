@@ -12,7 +12,7 @@ Reaction::Reaction(float alpha, float beta, float gamma) {
     this->beta = beta;
     this->gamma = gamma;
 
-    a->resize(WIDTH*HEIGHT*2);
+    a->reserve(WIDTH*HEIGHT*2);
     b->reserve(WIDTH*HEIGHT*2);
     c->reserve(WIDTH*HEIGHT*2);
     bitMap->reserve(WIDTH*HEIGHT*3);
